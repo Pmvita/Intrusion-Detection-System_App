@@ -1,0 +1,15 @@
+2025-02-28 19:57:08 - INFO - [IDS] No specific modules selected, starting all modules
+2025-02-28 19:57:08 - INFO - [NETWORK] Starting network monitoring...
+2025-02-28 19:57:08 - INFO - [IDS] Network monitoring started
+2025-02-28 19:57:08 - INFO - [PORTSCAN] Starting port scan detection...
+2025-02-28 19:57:08 - INFO - [IDS] Port scan detection started
+2025-02-28 19:57:08 - CRITICAL - [NETWORK] Error in network monitoring: Permission denied: could not open /dev/bpf0. Make sure to be running Scapy as root ! (sudo)
+2025-02-28 19:57:08 - INFO - [LOG] Starting log monitoring...
+2025-02-28 19:57:08 - INFO - [IDS] Log monitoring started
+2025-02-28 19:57:08 - INFO - [SYSTEM] Starting system monitoring...
+2025-02-28 19:57:08 - INFO - [IDS] System monitoring started
+2025-02-28 19:57:08 - INFO - [IDS] Intrusion Detection System started
+2025-02-28 19:57:08 - WARNING - [LOG] Log file not found: /var/log/auth.log
+2025-02-28 19:57:11 - WARNING - [PORTSCAN] Error scanning for open ports: 'nmap program was not found in path. PATH is : /Users/petermvita/.cursor/extensions/ms-python.python-2024.12.3-darwin-arm64/python_files/deactivate/zsh:/Users/petermvita/Desktop/IDS-App/venv/bin:/opt/homebrew/opt/ruby/bin:/Users/petermvita/.cursor/extensions/ms-python.python-2024.12.3-darwin-arm64/python_files/deactivate/zsh:/Users/petermvita/Desktop/IDS-App/venv/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Library/Apple/usr/bin:/Users/petermvita/.cursor/extensions/ms-python.python-2024.12.3-darwin-arm64/python_files/deactivate/zsh:/Users/petermvita/Desktop/IDS-App/venv/bin:/opt/homebrew/opt/ruby/bin'
+2025-02-28 19:57:11 - WARNING - [PORTSCAN] Error monitoring connections: [Errno 1] Operation not permitted
+2025-02-28 19:57:58 - INFO - [IDS] Intrusion Detection System stopped

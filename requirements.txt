@@ -1,0 +1,24 @@
+# Intrusion Detection System (IDS)
+# Requirements for the IDS system
+
+# GUI
+#ttkthemes==3.2.2
+
+# Network monitoring
+scapy==2.5.0
+python-nmap==0.7.1
+
+# Logging and alerting
+colorama==0.4.6
+
+# System monitoring
+psutil==5.9.5
+
+# Configuration
+config==0.5.0
+
+# Utils
+utils==0.1.0
+
+# System monitoring
+system_monitor==0.1.0
