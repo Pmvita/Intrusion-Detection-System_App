@@ -1,3 +1,11 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python: 3.8+](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Build Status](https://img.shields.io/badge/Build-Passing-green.svg)](https://github.com/your-username/ids/actions)
+
+<div align="center">
+   <img src="./screenshots/cybersec.jpg" alt="IDS GUI" width="40%" style="border-radius: 10px;">
+</div>
+
 # Simple Intrusion Detection System (IDS)
 
 A lightweight Python-based Intrusion Detection System that monitors network traffic, system logs, and port scanning activities to detect potential security threats.
